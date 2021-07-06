@@ -1,8 +1,7 @@
-# ifoodInterface
+# 📱Projeto
+Interface do aplicativo do Ifood
 
-## Interface do aplicativo do iFood
-
-#### Tecnologias e Ferramentas utilizadas:
+### 🤖 Tecnologias e Ferramentas utilizadas:
 - VsCode
 - React-Native
 - StyleComponents
